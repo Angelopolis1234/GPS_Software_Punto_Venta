@@ -1,0 +1,5 @@
+Existiran cuatro ramas en las cuales podremos encontrar:
+1- Frontend (Todos los archivos necesarios para el funcionamiento cliente de nuestra aplicación HTML, CSS3, JavaScript, PHP y SQL)
+2- Backend (Todos los archivos necesarios para el funcionamiento del servidor Python, PHP, SQL)
+3- Pruebas (Archivos en los cuales se especificarán los puntos en donde existió un problema de acuerdo con el tester).
+4- Extras (Archivos necesarios extras que se necesiten así como pruebas o pequeños programas sin integrar al software general)
